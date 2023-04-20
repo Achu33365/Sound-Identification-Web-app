@@ -1,0 +1,44 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-image: linear-gradient(to right top, #16dcff,#ffffff, #6385ff, #0f37ff, #ffffff, #654aff);
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.header_div{
+    font-size: larger;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.header_div p{
+    font-size: larger;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.main_div button {
+    font-size: larger;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.copy_right_footer{
+    font-size: x-large;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    text-decoration: wavy;
+    width: 100%;
+}
+
+
